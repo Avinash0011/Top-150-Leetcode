@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Avinash0011/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Avinash0011/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Avinash0011/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
