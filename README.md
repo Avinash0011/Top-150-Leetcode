@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avinash0011/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash0011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1288-remove-covered-intervals](https://github.com/Avinash0011/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Avinash0011/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3620-network-recovery-pathways](https://github.com/Avinash0011/DSA/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avinash0011/DSA/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Avinash0011/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Avinash0011/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avinash0011/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Avinash0011/DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
